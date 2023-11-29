@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flower Page</title>
+</head>
+<body>
+    <h1>Welcome to the Flower Page!</h1>
+    <p>Here are some beautiful flowers:</p>
+    
+    <div>
+        <img src="https://example.com/flower1.jpg" alt="Flower 1">
+        <img src="https://example.com/flower2.jpg" alt="Flower 2">
+        <img src="https://example.com/flower3.jpg" alt="Flower 3">
+        <!-- Add more images with their respective URLs -->
+    </div>
+</body>
+</html>
